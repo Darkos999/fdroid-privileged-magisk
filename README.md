@@ -261,6 +261,16 @@ Tu peux proposer des améliorations, signaler des bugs ou soumettre des pull req
 4. Push la branche (`git push origin amélioration-nouvelle`)
 5. Ouvre une Pull Request
 
+## ❓ Support
+
+Si tu rencontres un problème avec ce module :
+
+- Vérifie que tu utilises une version compatible de Magisk (≥ 24)
+- Assure-toi que l’APK est bien nommé `org.fdroid.fdroid.privileged.apk`
+- Consulte le fichier [`CHANGELOG.md`](./CHANGELOG.md) pour voir les dernières modifications
+
+📬 Tu peux aussi ouvrir une [issue sur GitHub](https://github.com/Darkos999/fdroid-privileged-magisk/issues) pour signaler un bug ou poser une question.
+
 Merci pour ton soutien 🙌
 
 
