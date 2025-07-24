@@ -4,7 +4,7 @@
   </a>
   <img src="https://img.shields.io/badge/Magisk-Module-blue">
   <img src="https://img.shields.io/badge/Android-13--15-green">
-  <img src="https://img.shields.io/github/license/Darkos999/fdroid-privileged-magisk?label=License">
+ [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   <img src="https://img.shields.io/badge/Language-FR%20%7C%20EN-yellow">
 </p>
 
