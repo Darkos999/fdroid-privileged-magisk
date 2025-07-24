@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="https://github.com/Darkos999/fdroid-privileged-magisk/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Darkos999/fdroid-privileged-magisk?label=version&color=blue" alt="Version">
+  </a>
+  <img src="https://img.shields.io/badge/Magisk-Module-blue">
+  <img src="https://img.shields.io/badge/Android-13--15-green">
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey">
+  <img src="https://img.shields.io/badge/Language-FR%20%7C%20EN-yellow">
+</p>
+
+
 # 📦 F-Droid Privileged Extension – Module Magisk
 
 Ce module installe l’extension privilégiée de F-Droid via Magisk.  
