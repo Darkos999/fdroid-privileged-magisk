@@ -100,7 +100,10 @@ Merci à l’équipe F-Droid, à la communauté Magisk et aux utilisateurs qui t
 
 ## 📜 Licence
 
-Ce projet est proposé sous licence libre (à définir — MIT, GPL, etc.)
+## 📜 Licence
+
+Ce projet est publié sous la licence libre **GNU GPL v3**.  
+Consultez le fichier [`LICENSE`](./LICENSE) pour plus de détails.
 
 ---
 
