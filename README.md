@@ -1,14 +1,12 @@
-![License](https://img.shields.io/github/license/Darkos999/fdroid-privileged-magisk?label=License)
 <p align="center">
   <a href="https://github.com/Darkos999/fdroid-privileged-magisk/releases/latest">
     <img src="https://img.shields.io/github/v/release/Darkos999/fdroid-privileged-magisk?label=version&color=blue" alt="Version">
   </a>
   <img src="https://img.shields.io/badge/Magisk-Module-blue">
   <img src="https://img.shields.io/badge/Android-13--15-green">
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey">
+  <img src="https://img.shields.io/github/license/Darkos999/fdroid-privileged-magisk?label=License">
   <img src="https://img.shields.io/badge/Language-FR%20%7C%20EN-yellow">
 </p>
-
 
 # 📦 F-Droid Privileged Extension – Module Magisk
 
@@ -98,8 +96,6 @@ Consultez [`CHANGELOG.md`](./CHANGELOG.md) pour les mises à jour et correctifs.
 Merci à l’équipe F-Droid, à la communauté Magisk et aux utilisateurs qui testent et améliorent ce module !
 
 ---
-
-## 📜 Licence
 
 ## 📜 Licence
 
@@ -198,8 +194,6 @@ Thanks to the F-Droid team, Magisk community, and users who test and improve thi
 
 ## 📜 License
 
-## 📜 License
-
 This project is released under the open source **GNU GPL v3** license.  
 See the [`LICENSE`](./LICENSE) file for full details.
-![License](https://img.shields.io/github/license/Darkos999/fdroid-privileged-magisk)
+
