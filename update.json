@@ -1,0 +1,18 @@
+{
+  "version": "v1.3",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/Darkos999/fdroid-privileged-magisk/releases/download/v1.3/fdroid-privileged-magisk-v1.3.zip",
+  "changelog": "Installation confirmée sur Noble ROM Android 15 (Samsung Galaxy S9+). Intégration de F-Droid Privileged Extension, support Android 13–15, optimisations Magisk v26+.",
+  "modules": [
+    {
+      "id": "fdroid-privileged-magisk",
+      "name": "F-Droid Privileged Extension",
+      "version": "v1.3",
+      "author": "Eric Lange",
+      "description": "Installe F-Droid Privileged Extension via Magisk. Utile pour les ROMs ne proposant pas l'intégration système en natif.",
+      "supports": [
+        "arm64"
+      ]
+    }
+  ]
+}
