@@ -1,3 +1,4 @@
+![License](https://img.shields.io/github/license/Darkos999/fdroid-privileged-magisk?label=License)
 <p align="center">
   <a href="https://github.com/Darkos999/fdroid-privileged-magisk/releases/latest">
     <img src="https://img.shields.io/github/v/release/Darkos999/fdroid-privileged-magisk?label=version&color=blue" alt="Version">
