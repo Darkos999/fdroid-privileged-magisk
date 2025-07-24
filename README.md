@@ -1,3 +1,5 @@
+> 📦 **F-Droid Privileged Extension** – Module Magisk  
+> Installe automatiquement l’extension privilégiée de F-Droid sur Android 13 à 15 via Magisk.
 <p align="center">
   <a href="https://github.com/Darkos999/fdroid-privileged-magisk/releases/latest">
     <img src="https://img.shields.io/github/v/release/Darkos999/fdroid-privileged-magisk?label=version&color=blue" alt="Version">
@@ -7,6 +9,8 @@
  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   <img src="https://img.shields.io/badge/Language-FR%20%7C%20EN-yellow">
 </p>
+![Version](https://img.shields.io/badge/version-v1.3-orange)  
+![Android](https://img.shields.io/badge/Android-13--15-green)
 
 # 📦 F-Droid Privileged Extension – Module Magisk
 
@@ -15,6 +19,14 @@ Ce module installe l’extension privilégiée de F-Droid via Magisk.
 🧪 Testé sur Noble ROM (Samsung S9+)
 
 ---
+## 🧭 Sommaire
+- [📥 Installation](#installation)
+- [⚙️ Fonctionnalités](#fonctionnalités)
+- [📲 Utilisation](#utilisation)
+- [📦 Structure du module](#structure-du-module)
+- [📝 Changelog](#changelog)
+- [🙏 Remerciements](#remerciements)
+- [📜 Licence](#licence)
 
 📦 **Installation**
 - Télécharge le fichier `.zip` depuis la [release v1.3](https://github.com/Darkos999/fdroid-privileged-magisk/releases/latest)
@@ -201,6 +213,8 @@ See the [`LICENSE`](./LICENSE) file for full details.
   ## 📜 Licence
 
 Ce projet est publié sous la licence libre **GNU GPL v3**.  
+
+
 Consultez le fichier [`LICENSE`](./LICENSE) pour plus de détails.
 
 
