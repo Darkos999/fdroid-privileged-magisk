@@ -10,7 +10,7 @@ Ce module installe l’extension privilégiée de F-Droid via Magisk.
 - Télécharge le fichier `.zip` depuis la [release v1.3](https://github.com/Darkos999/fdroid-privileged-magisk/releases/latest)
 - Installe-le via Magisk Manager
 
-🔗 **update.json**
+🔗 **update.json**  
 Utilise ce lien dans Magisk :  
 `https://raw.githubusercontent.com/Darkos999/fdroid-privileged-magisk/main/update.json`
 
@@ -56,16 +56,9 @@ fdroid-privileged-magisk-v1.3.zip
 
 ## 🧭 Utilisation dans Magisk
 
-Une fois le module installé :
-- Ouvrez l’application **F-Droid**
-- L’extension sera détectée automatiquement
-- Vous pourrez installer, mettre à jour ou supprimer des apps **sans confirmation**
-
----
-
-## 🔗 Téléchargement
-
-➡️ [Dernière version du module sur GitHub](https://github.com/Darkos999/fdroid-privileged-magisk/releases/latest)
+- Ouvrez **F-Droid**  
+- L’extension sera détectée automatiquement  
+- Vous pourrez installer ou mettre à jour des applications **sans confirmation**
 
 ---
 
@@ -84,7 +77,7 @@ description=Installe F-Droid Privileged Extension via Magisk pour intégration s
 
 ## 📰 Changelog
 
-Consultez le fichier [`CHANGELOG.md`](./CHANGELOG.md) pour les mises à jour et corrections.
+Consultez [`CHANGELOG.md`](./CHANGELOG.md) pour les mises à jour et correctifs.
 
 ---
 
@@ -109,10 +102,10 @@ This module installs the F-Droid Privileged Extension via Magisk.
 ---
 
 📦 **Installation**
-- Download the `.zip` file from the [v1.3 release](https://github.com/Darkos999/fdroid-privileged-magisk/releases/latest)
+- Download the `.zip` from the [v1.3 release](https://github.com/Darkos999/fdroid-privileged-magisk/releases/latest)
 - Install it using Magisk Manager
 
-🔗 **update.json**
+🔗 **update.json**  
 Use this link in Magisk:  
 `https://raw.githubusercontent.com/Darkos999/fdroid-privileged-magisk/main/update.json`
 
@@ -123,9 +116,9 @@ Eric Lange & Copilot
 
 ## 🧰 Features
 
-- 📲 System-level integration of the `org.fdroid.fdroid.privileged` APK
-- 🔒 Works with system-as-root devices
-- 🚀 Automatic installation via Magisk
+- 📲 System-level integration of `org.fdroid.fdroid.privileged`
+- 🔒 Supports system-as-root devices
+- 🚀 Installs automatically via Magisk
 - 🔄 Compatible with future Magisk updates
 
 ---
@@ -150,24 +143,16 @@ fdroid-privileged-magisk-v1.3.zip
 
 1. Open Magisk > Modules  
 2. Tap “Install from storage”  
-3. Select the file:  
-   `fdroid-privileged-magisk-v1.3.zip`  
-4. Reboot once installation completes ✅
+3. Select: `fdroid-privileged-magisk-v1.3.zip`  
+4. Reboot after installation ✅
 
 ---
 
-## 🧭 Using with Magisk
+## 🧭 Usage with Magisk
 
-After installing the module:
-- Open **F-Droid**
-- The privileged extension will be auto-detected
-- You can install, update, or uninstall apps **without prompts**
-
----
-
-## 🔗 Download
-
-➡️ [Latest release on GitHub](https://github.com/Darkos999/fdroid-privileged-magisk/releases/latest)
+- Open **F-Droid**  
+- The extension will be auto-detected  
+- You can install/update apps silently
 
 ---
 
@@ -186,16 +171,17 @@ description=Installs F-Droid Privileged Extension via Magisk for system integrat
 
 ## 📰 Changelog
 
-See [`CHANGELOG.md`](./CHANGELOG.md) for updates and fixes.
+See [`CHANGELOG.md`](./CHANGELOG.md) for updates and bugfixes.
 
 ---
 
 ## 🤝 Thanks
 
-Thanks to the F-Droid team, the Magisk community, and everyone who tested and improved this module!
+Thanks to the F-Droid team, Magisk community, and users who test and improve this module!
 
 ---
 
 ## 📜 License
 
 This project is released under an open license (to be defined — MIT, GPL, etc.)
+
