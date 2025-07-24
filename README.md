@@ -250,4 +250,17 @@ Ce projet est publié sous la licence libre **GNU GPL v3**.
 
 Consultez le fichier [`LICENSE`](./LICENSE) pour plus de détails.
 
+## 🤝 Contribuer
+
+Les contributions sont les bienvenues !  
+Tu peux proposer des améliorations, signaler des bugs ou soumettre des pull requests.
+
+1. Fork le dépôt
+2. Crée une branche (`git checkout -b amélioration-nouvelle`)
+3. Commit tes changements (`git commit -m 'Ajout d'une nouvelle fonctionnalité'`)
+4. Push la branche (`git push origin amélioration-nouvelle`)
+5. Ouvre une Pull Request
+
+Merci pour ton soutien 🙌
+
 
