@@ -192,8 +192,15 @@ Thanks to the F-Droid team, Magisk community, and users who test and improve thi
 
 ---
 
+
 ## 📜 License
 
 This project is released under the open source **GNU GPL v3** license.  
 See the [`LICENSE`](./LICENSE) file for full details.
+
+  ## 📜 Licence
+
+Ce projet est publié sous la licence libre **GNU GPL v3**.  
+Consultez le fichier [`LICENSE`](./LICENSE) pour plus de détails.
+
 
