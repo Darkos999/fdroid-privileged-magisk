@@ -1,0 +1,9 @@
+{
+  "version": "1.3.0",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/Darkos999_GITHUB/f-droid-privileged/raw/main/f-droid-privileged.zip",
+  "changelog": "🧩 Ajout du support GitHub pour mise à jour via Magisk.",
+  "name": "F-Droid Privileged Extension",
+  "author": "Eric & Copilot",
+  "description": "Module Magisk pour intégrer F-Droid Privileged Extension de façon sécurisée."
+}

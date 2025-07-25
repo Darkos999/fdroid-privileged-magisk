@@ -1,0 +1,8 @@
+id=f-droid-privileged
+name=F-Droid Privileged Extension
+version=1.3.0
+versionCode=4
+author=Eric & Copilot
+description=Installe le service F-Droid Privileged pour gérer automatiquement les applis open source.
+minMagisk=23000
+updateJson=https://raw.githubusercontent.com/Darkos999_GITHUB/f-droid-privileged/main/update.json
