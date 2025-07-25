@@ -1,3 +1,5 @@
+> ⚠️ Ce module est en phase de test. Consultez la section "Statut & limitations" en bas de page pour plus d’infos.
+
 # 🔧 fdroid-privileged-magisk
 
 > Module Magisk pour activer l’extension privilégiée de F-Droid sans modification système 🔐
@@ -78,3 +80,9 @@ L’extension **Markdown PDF** a servi à exporter les docs `.md` en PDF pour la
 Ce projet est une contribution commune avec mise en dépôt publique sur GitHub.
 
 ---
+
+## Statut & limitations
+
+⚠️ Ce module est encore en phase de test.  
+Certaines fonctions peuvent ne pas être pleinement opérationnelles selon l’environnement (version Android, Magisk…).  
+Les retours sont les bienvenus pour améliorer sa compatibilité et sa stabilité 🛠️
