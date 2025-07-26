@@ -86,3 +86,7 @@ Ce projet est une contribution commune avec mise en dépôt publique sur GitHub.
 ⚠️ Ce module est encore en phase de test.  
 Certaines fonctions peuvent ne pas être pleinement opérationnelles selon l’environnement (version Android, Magisk…).  
 Les retours sont les bienvenus pour améliorer sa compatibilité et sa stabilité 🛠️
+
+##Release supprimée pour les raisons indiquées ci-dessous:
+
+module toujours en test ( probleme avec magisk ).
